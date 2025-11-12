@@ -2,18 +2,18 @@
 Group member: Chi Lei Wang, Ting-Chia Chen, Yu-Chun Lin
 
 Problem 1 result:
-CPU latency: 1.864ms
-GPU latency: 0.114ms
+CPU latency: 21.224 ms
+GPU latency: 2.589 ms
 All case Pass
 
 Problem 2 result:
-CPU latency: 0.112ms
-GPU latency: 0.095ms
+CPU latency: 0.297 ms
+GPU latency: 0.123 ms
 All case Pass
 
 Problem 3 result:
-CPU latency: 87.030ms
-GPU latency: 0.192ms
+CPU latency: 1656.684 ms
+GPU latency: 72.019 ms
 All case Pass
 
 ## Result:
